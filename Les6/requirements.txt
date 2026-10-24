@@ -7,7 +7,7 @@ jedi==0.19.2
 jupyterlab_widgets==3.0.13
 matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
-numpy==2.2.1
+numpy==2.4.4
 packaging==24.2
 parso==0.8.4
 pexpect==4.9.0
@@ -17,6 +17,6 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 six==1.17.0
 stack-data==0.6.3
-typing_extensions==4.12.2
+typing_extensions>=4.13.0
 wcwidth==0.2.13
 widgetsnbextension==4.0.13
